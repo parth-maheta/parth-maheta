@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ Hi, I am Parth Maheta, a Computer Engineering Undergrad.<br>🌱 I’m currently learning Frontend Web Development.
+⚡ Hi, I am Parth Maheta, a Computer Engineering Undergrad.
 
 
 ## 🌐 Socials:
