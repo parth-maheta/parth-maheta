@@ -1,6 +1,12 @@
 # 💫 About Me:
-⚡ Hi, I am Parth Maheta, a Computer Engineering Undergrad.
-
+⚡ Hi there! I'm **Parth Chiragkumar Maheta**, a passionate and driven **Software Engineer** currently pursuing my B.Tech in Computer Science Engineering.
+🤝 **I’m looking to collaborate on**  
+- Frontend Web Projects using **ReactJS + Tailwind CSS**  
+- Hackathons and Open Source Contributions
+🌱 **I’m currently learning**  
+- Framer Motion and animation libraries  
+- System Design and Backend Integration with Node.js + Express
+- Nextjs for enhancing my frontend skills.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/parth-maheta-9407ba252) 
